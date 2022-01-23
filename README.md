@@ -4,7 +4,7 @@
 Minha Kim's portfolio website for projects.
 
 ### Website
- https://minha619.github.io/portfolio-web/
+ https://minha619.github.io/portfolio/
 
 
 ### Screenshot
