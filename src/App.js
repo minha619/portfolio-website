@@ -20,8 +20,8 @@ function App() {
       <Nav></Nav>
       <Routes>
         <Route path="portfolio/" element={<Projects currentCategory={currentCategory}> </Projects>} />
-        <Route path="portfolio/about" element={<About />} />
-        <Route path="portfolio/projects" element={<Projects currentCategory={currentCategory}> </Projects>} />
+        <Route path="/about" element={<About />} />
+        <Route path="/projects" element={<Projects currentCategory={currentCategory}> </Projects>} />
       </Routes>
     </BrowserRouter >
 
