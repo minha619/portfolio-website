@@ -6,7 +6,7 @@ function Nav() {
             <nav>
                 <ul className="flex-row">
                     <li className="mx-5">
-                        <Link to='/projects'>MH</Link>
+                        <Link to='portfolio/'>MH</Link>
                     </li>
                     <li className="mx-2">
                         <Link to='/about'>About Me</Link>
